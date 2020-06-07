@@ -1,4 +1,4 @@
-Refchaser Provisional User Guild
+Refchaser Provisional User Guide
 =================================
 This package is developed as a toolbox for conducting literature reviews and systematic reviews. It allows downloading full text articles in batches. It can parse the reference lists of pdf articles for searching reference list.  
 
@@ -10,7 +10,7 @@ Although the use of python packages usually requires some programming knowledge,
 
 ***
 ***What do I need to install before using refchaser?***  
-You need to install the following programming languages.
+You need to install the following programming languages.  
 
 [python 3](https://www.python.org/downloads/)
 
@@ -23,7 +23,7 @@ Make sure to add the executables of these languages to [PATH environment variabl
 ***
 ***How to install refchaser?***  
 
-After you have installed python 3, open emd.exe.  
+After you have installed python 3, open emd.exe.    
 
 Run command:  
 
@@ -79,8 +79,8 @@ The mapping relationships are as follows:
     4 - Scopus - Scopus
     5 - GS - Google Scholar
 
-The `-f` parameter should contain nothing else than PDF files you want parsed.
-The `-t` is a folder where you want to save forward search queries (consisting of titles of parsed articles) and backward search queries (consisting of titles of references) in .txt format.
+The `-f` parameter should contain nothing else than PDF files you want parsed.  
+The `-t` is a folder where you want to save forward search queries (consisting of titles of parsed articles) and backward search queries (consisting of titles of references) in .txt format.  
 The `-x` parameter is the databases you want to search with the forward and backward query, respectively. The package can create queries according to search rules of different databases.  
 
 Alternatively, you can just run this command:
