@@ -23,7 +23,7 @@ Make sure to add the executables of these languages to [PATH environment variabl
 ***
 ***How to install refchaser?***  
 
-After you have installed python 3, open emd.exe.    
+After you have installed python 3, open cmd.exe.    
 
 Run command:  
 
