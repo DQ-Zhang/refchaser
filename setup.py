@@ -7,7 +7,7 @@ with open("README.md","r") as readme:
 
 setuptools.setup(
     name="refchaser",
-    version='0.0.1',
+    version='0.0.2',
     authpr='Dingqi Zhang',
     author_email='zhangdingqi1998@gmail.com',
     description=description,

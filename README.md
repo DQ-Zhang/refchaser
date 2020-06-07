@@ -2,7 +2,7 @@ Refchaser Provisional User Guide
 =================================
 This package is developed as a toolbox for conducting literature reviews and systematic reviews. It allows downloading full text articles in batches. It can parse the reference lists of pdf articles for searching reference list.  
 
-The latest version is 0.0.1  
+The latest version is 0.0.2  
 
 Currently, it only support Windows systems.  
 
