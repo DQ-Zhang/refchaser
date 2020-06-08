@@ -8,6 +8,8 @@ Currently, it only support Windows systems.
 
 Although the use of python packages usually requires some programming knowledge, refchaser provides quick APIs to be called in commandline, which even lay people can use.  
 
+Acknowledgement to developers of [CERMINE](https://github.com/CeON/CERMINE.git)
+
 ***
 ***What do I need to install before using refchaser?***  
 You need to install the following programming languages.  
