@@ -1,13 +1,13 @@
 import setuptools
 
-description = "Written in python, for checking reference lists in systematic reviews and literature reviews, helps with reference list searching both backward&forward by extracting references and creating search queries, ranks articles by relevance to improve screening efficiency, download full-text pdf of research articles in batch."
+description = "Written in python, for checking reference lists in systematic reviews and literature reviews, helps with reference list searching both backward & forward by extracting references and creating search queries, ranks articles by relevance to improve screening efficiency, downloads full-text pdf of research articles in batch."
 
 with open("README.md","r") as readme:
     long_description = readme.read()
 
 setuptools.setup(
     name="refchaser",
-    version='0.0.2',
+    version='0.0.3',
     authpr='Dingqi Zhang',
     author_email='zhangdingqi1998@gmail.com',
     description=description,
